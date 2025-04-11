@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+pandas
+python-dotenv
+bitsandbytes
+accelerate
+optimum
+psycopg2-binary
+matplotlib
+seaborn
+sqlparse # Added for SQL validation
+google-generativeai # Added for Gemini
