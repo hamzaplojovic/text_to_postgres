@@ -9,5 +9,5 @@ optimum
 psycopg2-binary
 matplotlib
 seaborn
-sqlparse # Added for SQL validation
-google-generativeai # Added for Gemini
+sqlparse
+google-generativeai
